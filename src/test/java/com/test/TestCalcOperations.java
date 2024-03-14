@@ -8,9 +8,9 @@ public class TestCalcOperations {
 	@Test
 	public void testAdd() {
 		int a = 10;
-		int b = 20;
+		int b = 30;
 		int actSum = a + b;
-		Assert.assertEquals(30, actSum);
+		Assert.assertEquals(40, actSum);
 	}
 
 	@Test
