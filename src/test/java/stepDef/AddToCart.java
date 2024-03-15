@@ -28,6 +28,7 @@ public class AddToCart {
 	@Then("Product is added to Cart")
 	public void product_is_added_to_cart() {
 		pomcheckout.CheckoutMethod();
+		pomcheckout.closeApp();
 	}
 
 }

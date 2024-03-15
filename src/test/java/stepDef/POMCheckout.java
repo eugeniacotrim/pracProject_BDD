@@ -18,5 +18,9 @@ public class POMCheckout {
 			System.out.println("List of products in cart has loaded");
 		}
 	}
+		
+	public void closeApp() {
+		driver.close();
+	}
 
 }

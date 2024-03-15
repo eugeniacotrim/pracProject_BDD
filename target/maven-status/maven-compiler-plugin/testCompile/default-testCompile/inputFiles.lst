@@ -1,1 +1,9 @@
-C:\Users\eugen\eclipse-workspace\PracCICD_JUnit\src\test\java\com\test\TestCalcOperations.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\com\test\TestCalcOperations.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\AddToCart.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\Hooks.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\POMCart.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\POMCheckout.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\POMLogin.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\stepDef\POMRepo.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\testRunner\TestRunnerSD.java
+C:\Users\eugen\eclipse-workspace\PracBDD_JUnit\src\test\java\utils\LibDriver.java
